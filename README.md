@@ -1,9 +1,11 @@
 # Backend Cloud Development Foundations program homework, run 4
 
-## CloudFront URL
+## Front-end repo
 
-[https://dadd3nlfts3df.cloudfront.net/](https://dadd3nlfts3df.cloudfront.net/)
+### CloudFront URL
 
-## S3-website URL
+[https://d1kxfvgrchjfza.cloudfront.net/](https://d1kxfvgrchjfza.cloudfront.net/)
 
-[http://magic-shop.s3-website-us-east-1.amazonaws.com/](http://magic-shop.s3-website-us-east-1.amazonaws.com/)
+### S3-website URL
+
+[http://magic-shop.s3-website-eu-west-1.amazonaws.com](http://magic-shop.s3-website-eu-west-1.amazonaws.com)
